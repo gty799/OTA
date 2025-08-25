@@ -1,0 +1,24 @@
+3.2 Hotfix
+Source : 
+- Disable qs data usage by default
+- Fix brightness slider animation during qs swipe
+- Remove all app search bar hint text
+- Add Google weather provider support to launcher3 (vanilla) quickspace
+- Add Slide system animation
+- Minimal import app grid from Pixel launcher
+- Drop 6x6 grid
+- Adjust the icon size to the grid size
+- Adjust hotseat grid size
+- Fix qs junk due to media art
+- Add 2 new icon shapes
+- Fix powermenu style in light theme
+- Drop system icons auto brightness icons
+- Fix qs data usage switch
+- Fix music card crash after changing music
+- Add qs clock style
+- Add back OOS icons
+- And other changes
+Device: 
+Fix blur
+Add Dolby atmos
+Optimization
